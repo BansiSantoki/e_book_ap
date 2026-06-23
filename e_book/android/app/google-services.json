@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1038302860803",
+    "project_id": "e-book-store-98228",
+    "storage_bucket": "e-book-store-98228.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038302860803:android:127cd60afd52abe2806036",
+        "android_client_info": {
+          "package_name": "com.example.e_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038302860803-c6nd8hehprje184n7o3u1fbi8hsd09la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnUHaHb5Dipglx48CzFoetQi_5w9uB0aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038302860803-c6nd8hehprje184n7o3u1fbi8hsd09la.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038302860803-ket74e2bjenhv6b0ampqlf5pija18jvn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eBook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
